@@ -1,0 +1,26 @@
+B_med_003
+Frequency	T20 [s]	T30 [s]	EDT [s]
+50 Hz	NaN (Não é um número)	NaN (Não é um número)	NaN (Não é um número)
+63 Hz	NaN (Não é um número)	NaN (Não é um número)	NaN (Não é um número)
+80 Hz	NaN (Não é um número)	NaN (Não é um número)	NaN (Não é um número)
+100 Hz	NaN (Não é um número)	NaN (Não é um número)	1,38
+125 Hz	NaN (Não é um número)	NaN (Não é um número)	NaN (Não é um número)
+160 Hz	NaN (Não é um número)	NaN (Não é um número)	NaN (Não é um número)
+200 Hz	NaN (Não é um número)	NaN (Não é um número)	0,57
+250 Hz	NaN (Não é um número)	NaN (Não é um número)	NaN (Não é um número)
+315 Hz	NaN (Não é um número)	NaN (Não é um número)	NaN (Não é um número)
+400 Hz	NaN (Não é um número)	NaN (Não é um número)	NaN (Não é um número)
+500 Hz	NaN (Não é um número)	NaN (Não é um número)	NaN (Não é um número)
+630 Hz	NaN (Não é um número)	NaN (Não é um número)	NaN (Não é um número)
+800 Hz	NaN (Não é um número)	NaN (Não é um número)	NaN (Não é um número)
+1 kHz	NaN (Não é um número)	NaN (Não é um número)	NaN (Não é um número)
+1,25 kHz	NaN (Não é um número)	NaN (Não é um número)	NaN (Não é um número)
+1,6 kHz	NaN (Não é um número)	NaN (Não é um número)	NaN (Não é um número)
+2 kHz	NaN (Não é um número)	NaN (Não é um número)	NaN (Não é um número)
+2,5 kHz	NaN (Não é um número)	NaN (Não é um número)	NaN (Não é um número)
+3,15 kHz	NaN (Não é um número)	NaN (Não é um número)	NaN (Não é um número)
+4 kHz	NaN (Não é um número)	NaN (Não é um número)	3,29
+5 kHz	NaN (Não é um número)	NaN (Não é um número)	NaN (Não é um número)
+6,3 kHz	NaN (Não é um número)	NaN (Não é um número)	NaN (Não é um número)
+8 kHz	NaN (Não é um número)	NaN (Não é um número)	NaN (Não é um número)
+10 kHz	NaN (Não é um número)	NaN (Não é um número)	NaN (Não é um número)
